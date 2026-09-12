@@ -6,7 +6,6 @@ __pycache__/
 venv/
 
 # Local data and logs
-/data/raw/*.csv
 /data/raw/*.html
 /data/raw/batdongsan_pages/*.html
 /data/processed/*
