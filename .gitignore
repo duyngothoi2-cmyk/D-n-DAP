@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local data and logs
+/data/raw/*.html
+/data/raw/batdongsan_pages/*.html
+/data/processed/*
+/data/external/*
+/logs/*.log
+/logs/*.html
+/logs/*.txt
+
+# Keep folder placeholders
+data/raw/.gitkeep
+data/processed/.gitkeep
+data/external/.gitkeep
+logs/.gitkeep
+
+# Local/editor files
+.vscode/
+.DS_Store
+Thumbs.db
